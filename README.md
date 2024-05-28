@@ -25,8 +25,19 @@ npx create-next-app@latest
 npm i react-router-dom
 ```
 #### 配置
-略，详见笔记
+##### App
+```
+import * as React from "react";
+import { createRoot } from "react-dom/client";
+import { BrowserRouter } from "react-router-dom";
 
+const root = createRoot(document.getElementById("root"));
 
+root.render(
+  <BrowserRouter>
+    {/* The rest of your app goes here */}
+  </BrowserRouter>
+);
+```
 ## Markdown
 网址:[官方](https://markdown.com.cn/)
