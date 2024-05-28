@@ -28,15 +28,15 @@ npm i react-router-dom
 ##### App
 ```
 import * as React from "react";
-import { createRoot } from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
 
-const root = createRoot(document.getElementById("root"));
-
-root.render(
-  <BrowserRouter>
+function App() {
+  return <BrowserRouter>
     {/* The rest of your app goes here */}
   </BrowserRouter>
+}
+
+export default App;
 );
 ```
 ## Markdown
