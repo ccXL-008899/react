@@ -16,13 +16,16 @@ create-react-app my-app
 npx create-next-app@latest
 ```
 ## 路由
-网址:[官方](https://react-guide.github.io/react-router-cn/docs/Introduction.html)
-### 安装
+### react-router-dom
+网址:
+1. [官方](https://react-guide.github.io/react-router-cn/docs/Introduction.html)
+2. [NPM](https://www.npmjs.com/package/react-router-dom)
+#### 安装
 ```
 npm i react-router-dom
 ```
-### 配置
-
+#### 配置
+略，详见笔记
 
 
 ## Markdown
