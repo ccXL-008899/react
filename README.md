@@ -15,3 +15,5 @@ create-react-app my-app
 ```
 npx create-next-app@latest
 ```
+## 路由配置
+网址[官方](https://react-guide.github.io/react-router-cn/docs/Introduction.html)
