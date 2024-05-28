@@ -9,7 +9,7 @@ npm install -g create-react-app
 ```
 create-react-app my-app
 ```
-*（不能包含大写字母），执行该命令，就相当于webpack的基本环境都搭建好了，react的所有环境也都搭建好了
+*不能包含大写字母，执行该命令，就相当于webpack的基本环境都搭建完毕
 
 ### next
 ```
