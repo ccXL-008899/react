@@ -1,5 +1,17 @@
 # react
 ## 安装
+### 老式脚手架
+#### 全局安装
+```
+npm install -g create-react-app
+```
+#### 创建项目my-app自动创建目录
+```
+create-react-app my-app
+```
+*（不能包含大写字母），执行该命令，就相当于webpack的基本环境都搭建好了，react的所有环境也都搭建好了
+
+### next
 ```
 npx create-next-app@latest
 ```
